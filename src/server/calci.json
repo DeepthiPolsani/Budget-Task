@@ -1,0 +1,251 @@
+{
+  "calci": [
+    {
+      "fname": "Deepthi",
+      "lname": "kad",
+      "username": "sami12",
+      "email": "Deepthi@gmail.com",
+      "password": "9518354701",
+      "id": 1,
+      "task": [
+        {
+          "title": "apple",
+          "description": "eat"
+        }
+      ]
+    },
+    {
+      "password": "Priya@123",
+      "email": "priya@123.com",
+      "fname": "priya",
+      "lname": "pande",
+      "username": "priya12",
+      "budget": [
+        {}
+      ],
+      "id": 2
+    },
+    
+    {
+      "password": "$2a$10$xSG9i8.Q3jqDraW7MVIGweYSElmPZJDqxmz4f2aTz8OkrV/g4pDu2",
+      "email": "uiop@gmail.com",
+      "fname": "uiop",
+      "lname": "uiop",
+      "username": "uiop",
+      "budget": [
+        {
+          "totalbudget": "400000",
+          "title": "expences",
+          "expences": "2999"
+        },
+        {
+          "title": "wiop",
+          "expences": "100000"
+        },
+        {
+          "totalbudget": 0,
+          "title": "",
+          "expences": ""
+        }
+      ],
+      "id": 6
+    },
+    {
+      "password": "$2a$10$g9GT7efqo2LasgTOCJ6zUOL94Bl4e6nNPQdYaCayJZ7kg1rzwU/Mi",
+      "email": "polsani.deepthi123@gmail.com",
+      "fname": "POLSANI",
+      "lname": "DEEPTHI",
+      "username": "fgh",
+      "budget": [
+        {
+          "title": "chocalate",
+          "expences": "900"
+        },
+        {
+          "totalbudget": "1000",
+          "title": "",
+          "expences": ""
+        },
+        {
+          "title": "cake",
+          "expences": "500"
+        },
+        {
+          "title": "cake",
+          "expences": "500"
+        },
+        {
+          "totalbudget": 0,
+          "title": "cake",
+          "expences": "100"
+        },
+        {
+          "totalbudget": "1000",
+          "title": "cake",
+          "expences": "300"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "password": "$2a$10$VeUodg5uZYsHLPgbamN33uzBWhhEYaDw74Pr7eCCVih3kIybfv3WG",
+      "email": "polsani.deepthi123@gmail.com",
+      "fname": "POLSANI",
+      "lname": "DEEPTHI",
+      "username": "yuechi",
+      "budget": [],
+      "id": 8
+    },
+    {
+      "password": "$2a$10$5WNz2l9Ng8sQWOESbdjAfekY99YcjWlvSR2tnqawQJ.e6N9uErQMO",
+      "email": "",
+      "fname": "",
+      "lname": "",
+      "username": "",
+      "budget": [],
+      "id": 9
+    },
+    {
+      "password": "$2a$10$PeFu6fT9ecavYoLmC5qMoeoYQFBzlY0TmldnaHr8uG5rV20c4bR5W",
+      "email": "",
+      "fname": "",
+      "lname": "",
+      "username": "",
+      "budget": [],
+      "id": 10
+    },
+    {
+      "password": "$2a$10$T5kW73ALT72s8Uu8ebYTmeYFjYp9wIX6TZc7DemXG397cZZy9MmN.",
+      "email": "",
+      "fname": "",
+      "lname": "",
+      "username": "",
+      "budget": [],
+      "id": 11
+    },
+    {
+      "password": "$2a$10$QbnNqmEYR6Bf6a/DbHBXfO3UohaDvd1vTcOzL7.dhhXlSBHPBIC4S",
+      "email": "polsani@gmail.com",
+      "fname": "POLSANI",
+      "lname": "DEEPTHI",
+      "username": "Deepthi",
+      "budget": [
+        {
+          "title": "cake",
+          "expences": "500"
+        },
+        {
+          "totalbudget": "1000",
+          "title": "",
+          "expences": ""
+        }
+      ],
+      "id": 12
+    },
+    {
+      "password": "$2a$10$yxcgI0nH5c5JJlRGCA1u7eyByugf6t5WrCrBJPE9ubkSGMwKN0zce",
+      "email": "polsani.deepthi123@gmail.com",
+      "fname": "POLSANI",
+      "lname": "DEEPTHI",
+      "username": "t",
+      "budget": [],
+      "id": 13
+    },
+    {
+      "password": "$2a$10$sO.J5b9AH.gy3TtilfokBe1EVYXZFPAV3ID6VYW7ylpiMUERF/muO",
+      "email": "polsani.deepthi123@gmail.com",
+      "fname": "POLSANI",
+      "lname": "DEEPTHI",
+      "username": "",
+      "budget": [],
+      "id": 14
+    },
+    {
+      "password": "$2a$10$xlDeYQr7oisseRHZ3RrQ3.S6/5ebyvgC6jONM9jTcwpDSvQheB9qi",
+      "email": "polsani.deepthi123@gmail.com",
+      "fname": "POLSANI",
+      "lname": "DEEPTHI",
+      "username": "",
+      "budget": [],
+      "id": 15
+    },
+    {
+      "password": "$2a$10$87ZedBUfl.rMyeILQV/UnO.vdxbMwjMbDHHZ.GGiuDB430Bfa32me",
+      "email": "",
+      "fname": "",
+      "lname": "",
+      "username": "",
+      "budget": [],
+      "id": 16
+    },
+    {
+      "password": "$2a$10$mt.bS6HWJal5zTeJCbWWE.m54SvgpUI9bZS.nGq1t8WsrNZIVdDlq",
+      "email": "polsani.deepthi123@gmail.com",
+      "fname": "POLSANI",
+      "lname": "DEEPTHI",
+      "username": "",
+      "budget": [],
+      "id": 17
+    },
+    {
+      "password": "$2a$10$QleSLsv/fmGh/oF1v5E3J.kKNs.VOuOnYeabDUyJMdjrcECo9aiza",
+      "email": "polsani.deepthi123@gmail.com",
+      "fname": "POLSANI",
+      "lname": "DEEPTHI",
+      "username": "",
+      "budget": [],
+      "id": 18
+    },
+    {
+      "password": "$2a$10$Kb6reQYpNlx4gnAT7K4vWeGVZcL8B4vGuYay3d12nlvK///2v./K2",
+      "email": "polsani.deepthi123@gmail.com",
+      "fname": "POLSANI",
+      "lname": "DEEPTHI",
+      "username": "Deepthi",
+      "budget": [],
+      "id": 19
+    },
+    {
+      "password": "$2a$10$u3nVzxYtJnrBVS6X/PY7e.AfcKz/YnyfwX0BDNUg1Qi2EDB3SKI3.",
+      "email": "polsani.deepthi123@gmail.com",
+      "fname": "POLSANI",
+      "lname": "DEEPTHI",
+      "username": "Deepthi",
+      "budget": [],
+      "id": 20
+    },
+    {
+      "password": "$2a$10$L65.m9vD/n3M0VrcUV5PnulHkYO0dCriK.I/zUiGzuBBJZS3ET.MS",
+      "email": "polsani.deepthi123@gmail.com",
+      "fname": "POLSANI",
+      "lname": "DEEPTHI",
+      "username": "Deepthi",
+      "budget": [],
+      "id": 21
+    },
+    {
+      "password": "$2a$10$/MjTKH1qzibbDnIbaEuiPu.LDmWb7EpEPn6xr7op4V227ypd65D8S",
+      "email": "polsani.deepthi123@gmail.com",
+      "fname": "POLSANI",
+      "lname": "DEEPTHI",
+      "username": "Deepthi",
+      "budget": [],
+      "id": 22
+    },
+    {
+      "password": "$2a$10$KrGfMQ040RdEYw1TyZic0uAUMcYA9tDx/o8R29G5hrzt3Ms.9PhXO",
+      "email": "polsani.deepthi123@gmail.com",
+      "fname": "POLSANI",
+      "lname": "DEEPTHI",
+      "username": "Deepthi",
+      "budget": [
+        {
+          "totalbudget": "10000",
+          "title": "",
+          "expences": ""
+        }
+      ],
+      "id": 23
+    }
+  ]
+}
